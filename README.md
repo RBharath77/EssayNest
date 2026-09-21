@@ -499,12 +499,12 @@ Add your application screenshots here:
 
 
 
-## 🌐 Live Demo
+<!--## 🌐 Live Demo
 
 👉 **[Launch Essayly](YOUR_LIVE_DEMO_URL)**
 
 Try the Essayly AI essay scoring and writing analytics platform online.
-
+-->
 ## 👨‍💻 Author
 
 **Bharath R**
