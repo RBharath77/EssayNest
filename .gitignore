@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.env
+*.db
+dataset/*.csv
+models/*.pkl
+training/artifacts/*.npz
+training/artifacts/*.npy
+reports/generated/*
+.env
+backend/essay_scorer.db
+reports/generated/*.pdf
+__pycache__/
+*.pyc

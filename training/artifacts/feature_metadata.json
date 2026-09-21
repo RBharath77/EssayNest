@@ -1,0 +1,24 @@
+{
+  "numeric_features": [
+    "word_count",
+    "character_count",
+    "sentence_count",
+    "paragraph_count",
+    "avg_sentence_length",
+    "avg_word_length",
+    "unique_word_count",
+    "vocabulary_richness",
+    "comma_count",
+    "period_count",
+    "question_count",
+    "exclamation_count",
+    "punctuation_count",
+    "punctuation_density",
+    "long_word_ratio"
+  ],
+  "tfidf_features": 800,
+  "total_features": 815,
+  "train_rows": 6400,
+  "test_rows": 1600,
+  "training_rows_capped": 8000
+}
